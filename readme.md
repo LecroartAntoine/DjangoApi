@@ -20,9 +20,9 @@ De plus, cette API permet également d'accéder aux informations des stations de
 
 # Utilisation 
 
-Pour utiliser cette API, vous devrez d'abord installer django et Pillow
-    pip install django
-    pip install Pillow
+Pour utiliser cette API, vous devrez d'abord installer django et Pillow : <br>
+    `pip install django` <br>
+    `pip install Pillow`
 
 Puis, lancer le serveur en local.<br>
 Pour cela, vous devez exécuter la commande suivante dans votre terminal :<br>
