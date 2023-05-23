@@ -46,7 +46,7 @@ Cet endpoint retourne une valeur entière aléatoire comprise entre 0 et 100.
 Exemple :
 
 ```
-GET https://127.0.0.1:8000/val
+GET http://127.0.0.1:8000/val
 
 Réponse : 42
 ```
@@ -205,7 +205,7 @@ Cette endpoint retourne la capacité et l'adresse de la station de vélo n, sous
 Exemple
 
 ```
-GET http://127.0.0.1:8000/stations_velo?id=17&cap
+GET http://127.0.0.1:8000/stations_velo?id=17&cap&addr
 
 Réponse : 
 "Adresse : 5, RUE DE L'INDUSTRIE
